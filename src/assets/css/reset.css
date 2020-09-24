@@ -1,0 +1,12 @@
+body,html{
+  margin: 0;
+  padding: 0;
+  color: #333!important;
+}
+.container{
+  width: 2400px;
+  margin: 0 auto;
+}
+#app{
+  min-width: 1366;
+}
